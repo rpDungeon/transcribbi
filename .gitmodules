@@ -1,0 +1,3 @@
+[submodule "voxtral.c"]
+	path = voxtral.c
+	url = https://github.com/antirez/voxtral.c
